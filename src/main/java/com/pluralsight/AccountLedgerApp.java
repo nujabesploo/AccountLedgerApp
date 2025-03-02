@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Scanner;
 
 // Main class for managing a simple financial ledger
-public class SimpleLedgerApp {
+public class AccountLedgerApp {
     // Define constant for the file where transactions will be stored
     private static final String FILE_PATH = "transactions.csv";
     // Define date format pattern for transaction dates
