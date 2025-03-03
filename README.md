@@ -31,13 +31,15 @@ The **Simple Ledger App** is a **console-based Java program** that allows users 
 Below are some example screenshots of the program in action:  
 
 ### ✅ Adding a Deposit  
-![Deposit Screenshot](https://github.com/user-attachments/assets/deposit-example.png)  
+
+<img src="https://github.com/user-attachments/assets/7248352e-faf5-4775-8186-9ccfcbbc731e" alt="Screenshot 3" width="370">
+
 
 ### ⚠️ Invalid Input Handling  
-![Error Screenshot](https://github.com/user-attachments/assets/error-example.png)  
+  <img src="https://github.com/user-attachments/assets/e385b6b7-dd15-47ae-aa6b-7453b0449703" alt="Screenshot 2" width="370">
 
 ### 📜 Viewing Transactions  
-![Transaction List Screenshot](https://github.com/user-attachments/assets/transactions-example.png)  
+  <img src="https://github.com/user-attachments/assets/426e470b-cec5-419c-8e9d-fdb31e5d9340" alt="Screenshot 1" width="370">
 
 ---  
 
